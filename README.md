@@ -1,4 +1,4 @@
-# Attendence-Management-System-Using-Face-Recognition
+# Attendance-Management-System-Using-Face-Recognition
 
 # Problem Stastatement:
           To Develop an automated attendence management system using face recognition technology.
